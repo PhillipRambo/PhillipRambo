@@ -1,7 +1,6 @@
-🛠️ IC Designer
+🛠️ Analog/Mixed Signal IC Designer
 🎵 Musician
-🔌 Analog & Digital Design
-💻 Embedded Programming
+
 
 Bridging creativity and technology.
 <!---
